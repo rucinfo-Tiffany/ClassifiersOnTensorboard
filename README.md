@@ -1,14 +1,14 @@
 # Classifiers On Tensorboard
 This repository contains python code to display some common classifiers on Tensorboard. 
 
-##Current Classifier List:
+## Current Classifier List:
 - Logistic Regression
 - Multilayer Perceptron
 - CNN
 - RNN
 - AutoEncoder
 
-##Running Environments:
+## Running Environments:
 - Operating System: Windows7 64bit
 - Python: Python 3.6.0|Anaconda 4.3.1 (64-bit)
 - Tensorflow: 1.2.0
