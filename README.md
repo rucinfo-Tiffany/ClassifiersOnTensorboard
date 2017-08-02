@@ -2,6 +2,7 @@
 This repository contains python code to display some common machine learning classifiers on Tensorboard. 
 
 ## Current Classifier List:
+- Perceptron (Binary)
 - Logistic Regression (Binary)
 - Softmax Regression (Multi-Class)
 - Multilayer Perceptron (MLP)
