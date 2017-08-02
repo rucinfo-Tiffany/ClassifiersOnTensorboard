@@ -1,5 +1,5 @@
 # Classifiers On Tensorboard
-This repository contains python code to display some common classifiers on Tensorboard. 
+This repository contains python code to display some common machine learning classifiers on Tensorboard. 
 
 ## Current Classifier List:
 - Logistic Regression
